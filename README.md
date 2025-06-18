@@ -26,6 +26,12 @@ Here are some ideas to get you started:
 ![](https://nirzak-streak-stats.vercel.app/?user=nilesh-singh-2304&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh-singh-2304&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nilesh-singh-2304&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
