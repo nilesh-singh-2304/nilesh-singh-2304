@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MERN , NextJS , Web**
 
-- 📫 How to reach me **shyaam23.4@gmail.com**
+- 📫 How to reach me **shyaam2304@gmail.com**
 </p>
 
 
